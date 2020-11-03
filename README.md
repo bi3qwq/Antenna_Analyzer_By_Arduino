@@ -10,7 +10,8 @@ Arduino nano,AD9580,PCB,SourceCode
   
   //2018-9-20 UTC +8
   
-  //
+  //thinks dr_phil
+  //https://www.instructables.com/HF-Antenna-Analyser-With-Arduino-and-DDS-Module/
   
   --------------How to use?--------------------
   
