@@ -3,12 +3,17 @@ Arduino nano,AD9580,PCB,SourceCode
 
 
   //
+  
   //By BI3QWQ,China
+  
   //QQ ID 657584105,download qq from http://im.qq.com/,and reg user from http://zc.qq.com
+  
   //2018-9-20 UTC +8
+  
   //
   
   --------------How to use?--------------------
+  
 
   [Mode]
 
@@ -37,4 +42,5 @@ Arduino nano,AD9580,PCB,SourceCode
 
 
   -----------------Question?------------------------
+  
   if startup system have tip is "Need Calibration!" and RealTime mode have "SWR!",it's need calibration res.enter Config Mode to cailibration.it's will be ok.
