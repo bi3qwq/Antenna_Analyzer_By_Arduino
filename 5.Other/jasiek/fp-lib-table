@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name SMA_EDGE)(type Legacy)(uri "$(KIPRJMOD)/libs/JOS_SMA_connectors/SMA_EDGE.mod")(options "")(descr ""))
+  (lib (name sop8)(type KiCad)(uri "$(KIPRJMOD)/libs/jasiek/sop8.pretty")(options "")(descr ""))
+  (lib (name dds-module-ad9850)(type Eagle)(uri "$(KIPRJMOD)/libs/dds-module-ad9850.lbr")(options "")(descr ""))
+  (lib (name SOT223)(type Legacy)(uri "$(KIPRJMOD)/libs/joeferner/mods/legacy/SOT223.mod")(options "")(descr ""))
+  (lib (name "arduino pro mini")(type Legacy)(uri "$(KIPRJMOD)/libs/arduino pro mini.mod")(options "")(descr ""))
+  (lib (name Rotary-Encoders)(type KiCad)(uri "$(KIPRJMOD)/libs/Rotary-Encoders.pretty")(options "")(descr ""))
+)

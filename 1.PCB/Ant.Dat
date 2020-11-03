@@ -1,0 +1,16 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Ant.PrjPcb|ReportField=ProjectFullPath~D:\工作\4.28 天线分析仪\Ant\Ant.PrjPcb|ReportField=Title~Bill of Materials For Project [Ant.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~40|ReportField=ReportTime~18:39:47|ReportField=ReportDate~2018-05-06|ReportField=ReportDateTime~2018-05-06 18:39:47|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2018-05-06|ReportField=CurrentTime~18:39:43|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\工作\4.28 天线分析仪\Ant\Ant.SchDoc|ReportField=DocumentName~Ant.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2018-05-06|ReportField=Organization~|ReportField=ProjectName~Ant.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Ant.PrjPcb|ReportField=DataSourceFullPath~D:\工作\4.28 天线分析仪\Ant\Ant.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|JUMP||||JUMP|3
+2|ANT||A?||ANT|1
+3|Cap|Capacitor|C?|RAD-0.3|Cap|7
+4|Cap Pol1|Polarized Capacitor (Radial)|C?|RB7.6-15|Cap Pol1|1
+5|AA143|Default Diode|D?|SMC|Diode|2
+6|D Zener|Zener Diode|D?|DIODE-0.7|D Zener|1
+7|Inductor|Inductor|L?|0402-A|Inductor|1
+8|OLED1.3||LED?||OLED1.3|1
+9|PowerPad||P?||PowerPad|1
+10|Res1|Resistor|R?|AXIAL-0.3|Res1|17
+11|AD9850||U*||AD9850|1
+12|Atmega328p-AU||U?||Atmega328p-AU|1
+13|EC11||U?||EC11|1
+14|LM2576||U?||LM2576|1
+15|MCP6002||U?||MCP6002|1

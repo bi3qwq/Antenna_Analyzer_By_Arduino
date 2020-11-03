@@ -1,0 +1,36 @@
+天气
+C:\Users\Administrator\Desktop\U8glib字体\字体\中文\本墨字体_10.bdf
+j
+/*
+  Fontname: HAN-GB2312
+  Copyright: 
+  Capital A Height: 0, '1' Height: 0
+  Calculated Max Values w=10 h=10 x= 0 y= 0 dx=10 dy= 0 ascent= 8 len= 0
+  Font Bounding box     w=10 h=10 x= 0 y= 0
+  Calculated Min Values           x= 0 y=-2 dx= 0 dy= 0
+  Pure Font   ascent = 0 descent= 0
+  X Font      ascent = 0 descent= 0
+  Max Font    ascent = 8 descent=-2
+*/
+#include "utility\u8g.h"
+const u8g_fntpgm_uint8_t j[] U8G_FONT_SECTION("j") = {
+0,10,10,0,0,0,0,0,0,0,0,1,0,8,254,0,
+//天(\x00)
+0,10,10,21,10,0,254,128,240,0,0,0,0,0,0,240,
+240,0,0,0,0,0,128,64,224,64,32,
+//气(\x01)
+0,9,5,10,10,2,3,3,0,3,195,3,195,0,0,131,
+131};
+
+/*
+  //Sample(调用例子):
+  u8g.firstPage();
+  do
+  {
+  u8g.setFont(j);
+  //u8g.drawStr( 0,8, "\x00\x01");
+  u8g.setPrintPos(0,8);
+  u8g.print("\x00\x01");
+  }while (u8g.nextPage());
+*/
+
