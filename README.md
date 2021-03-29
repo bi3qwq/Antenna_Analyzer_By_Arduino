@@ -48,6 +48,12 @@ Arduino nano,AD9580,PCB,SourceCode
   if startup system have tip is "Need Calibration!" and RealTime mode have "SWR!",it's need calibration res.enter Config Mode to cailibration.it's will be ok.
   
 ![image](https://github.com/dashengjiadao/Antenna_Analyzer_By_Arduino/blob/eb17162edce4f1d251115a70e3a177334d2f03d5/4.Finish/outside/1.jpg)
-
-
-![image](https://github.com/dashengjiadao/Antenna_Analyzer_By_Arduino/blob/eb17162edce4f1d251115a70e3a177334d2f03d5/4.Finish/outside/1.jpg)
+![image](https://github.com/dashengjiadao/Antenna_Analyzer_By_Arduino/blob/eb17162edce4f1d251115a70e3a177334d2f03d5/4.Finish/outside/2.jpg)
+![image](https://github.com/dashengjiadao/Antenna_Analyzer_By_Arduino/blob/eb17162edce4f1d251115a70e3a177334d2f03d5/4.Finish/outside/3.jpg)
+![image](https://github.com/dashengjiadao/Antenna_Analyzer_By_Arduino/blob/eb17162edce4f1d251115a70e3a177334d2f03d5/4.Finish/outside/4.jpg)
+![image](https://github.com/dashengjiadao/Antenna_Analyzer_By_Arduino/blob/eb17162edce4f1d251115a70e3a177334d2f03d5/4.Finish/outside/5.jpg)
+![image](https://github.com/dashengjiadao/Antenna_Analyzer_By_Arduino/blob/eb17162edce4f1d251115a70e3a177334d2f03d5/4.Finish/outside/6.jpg)
+![image](https://github.com/dashengjiadao/Antenna_Analyzer_By_Arduino/blob/eb17162edce4f1d251115a70e3a177334d2f03d5/4.Finish/outside/7.jpg)
+![image](https://github.com/dashengjiadao/Antenna_Analyzer_By_Arduino/blob/eb17162edce4f1d251115a70e3a177334d2f03d5/4.Finish/outside/8.jpg)
+![image](https://github.com/dashengjiadao/Antenna_Analyzer_By_Arduino/blob/eb17162edce4f1d251115a70e3a177334d2f03d5/4.Finish/outside/9.jpg)
+![image](https://github.com/dashengjiadao/Antenna_Analyzer_By_Arduino/blob/eb17162edce4f1d251115a70e3a177334d2f03d5/4.Finish/outside/10.jpg)
