@@ -6,7 +6,7 @@ Arduino nano,AD9580,PCB,SourceCode
   
   //By BI3QWQ,China
   
-  //QQ ID 657584105,download qq from http://im.qq.com/,and reg user from http://zc.qq.com
+  //if u have any question,send email to BI3QWQ@GMAIL.COM
   
   //2018-9-20 UTC +8
   
